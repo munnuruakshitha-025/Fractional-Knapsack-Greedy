@@ -1,0 +1,19 @@
+Enter number of items: 3
+Enter weight and value of each item:
+10 60
+20 100
+30 120
+Enter knapsack capacity: 50
+
+Items sorted by value/weight ratio:
+Item 1 - Weight: 10, Value: 60, Ratio: 6.00
+Item 2 - Weight: 20, Value: 100, Ratio: 5.00
+Item 3 - Weight: 30, Value: 120, Ratio: 4.00
+
+Selected Items:
+Item 1 - 100% selected
+Item 2 - 100% selected
+Item 3 - 66.67% selected
+
+Total Weight: 50
+Maximum Value: 260.00
