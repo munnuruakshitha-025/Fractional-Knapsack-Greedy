@@ -1,0 +1,7 @@
+3          → Number of items
+
+10 60      → Item 1: weight = 10, value = 60
+20 100     → Item 2: weight = 20, value = 100
+30 120     → Item 3: weight = 30, value = 120
+
+50         → Knapsack capacity
